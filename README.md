@@ -1,5 +1,4 @@
 # CCNA Lab Day 1 – VLAN Basics
-
 ## Overview
 
 This lab introduces the basic concept of VLANs (Virtual Local Area Networks). The goal is to create two separate VLANs on a switch and understand how devices in different VLANs are isolated from each other.

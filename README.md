@@ -1,4 +1,3 @@
-# CCNA-LAB-30-DAY-SERIES-01-VLAN
 # CCNA Lab Day 1 – VLAN Basics
 
 ## Overview
